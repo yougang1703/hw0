@@ -1,4 +1,4 @@
-# 2019_os_hw0
+# 2020_os_hw
 HW0: git usages & OS hw0-group establishment.
 
 
