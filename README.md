@@ -1,5 +1,5 @@
 # 2019_os_hw0
-HW0: git usages & OS hw0-group establishment.
+HW0: git usages & OS hw0-group establishment!
 
 
 ## OS HW0, register for the course, groups
